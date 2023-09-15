@@ -131,77 +131,75 @@ function getElementInfo(elementObj) {
           </nav>
           <div class="flex-col">
               <table>
-                  <tr>
-                      <th>Name</th>
-                      <td><a target="_blank" href="${elementInfo.source}">${
+                 <tr>
+                    <th>Tên</th>
+                    <td><a target="_blank" href="${elementInfo.source}">${
     elementInfo.name
   }</a></td>
-                  </tr>
-                  <tr>
-                      <th>Atomic Number</th>
-                      <td>${elementInfo.number}</td>
-                  </tr>
-                  <tr>
-                      <th>Discovered by</th>
-                      <td>${capitalize(
-                        handleMissing(elementInfo.discovered_by)
-                      )}</td>
-                  </tr>
-                  <tr>
-                      <th>Named by</th>
-                      <td> ${capitalize(
-                        handleMissing(elementInfo.named_by)
-                      )}</td>
-                  </tr>
-                  <tr>
-                      <th>Appearance</th>
-                      <td>${capitalize(
-                        handleMissing(elementInfo.appearance)
-                      )}</td>
-                  </tr>
-                  <tr>
-                      <th>Atomic Mass</th>
-                      <td>${handleMissingNumber(
-                        elementInfo.atomic_mass,
-                        "u"
-                      )}</td>
-                  </tr>
-                  <tr>
-                      <th>Boiling point</th>
-                      <td>${handleMissingNumber(elementInfo.boil, "K")}</td>
-                  </tr>
-                  <tr>
-                      <th>Category</th>
-                      <td>${capitalize(elementInfo.category)}</td>
-                  </tr>
-                  <tr>
-                      <th>Density</th>
-                      <td>${handleMissingNumber(
-                        elementInfo.density,
-                        "kg/m³"
-                      )}</td>
-                  </tr>
-                  <tr>
-                      <th>Melting point</th>
-                      <td>${handleMissingNumber(elementInfo.melt, "K")}</td>
-                  </tr>
-                  <tr>
-                      <th>Electron configuration</th>
-                      <td>${handleMissing(
-                        elementInfo.electron_configuration
-                      )}</td>
-                  </tr>
-              </table>
-              <table>
-                  <th style="text-align: center">Summary</th>
-                  <tr>
-                      <td>${elementInfo.summary}</td>
-                  </tr>     
-              </table>
-          </div>
-      </div>
-      `;
-
+                </tr>
+                <tr>
+                    <th>Số nguyên tử</th>
+                    <td>${elementInfo.number}</td>
+                </tr>
+                <tr>
+                    <th>Nơi phát hiện</th>
+                    <td>${capitalize(
+                      handleMissing(elementInfo.discovered_by)
+                    )}</td>
+                </tr>
+                <tr>
+                    <th>Người phát hiện</th>
+                    <td> ${capitalize(handleMissing(elementInfo.named_by))}</td>
+                </tr>
+                <tr>
+                    <th>Đặc điểm nhận biết</th>
+                    <td>${capitalize(
+                      handleMissing(elementInfo.appearance)
+                    )}</td>
+                </tr>
+                <tr>
+                    <th>Khối lượng nguyên tử</th>
+                    <td>${handleMissingNumber(
+                      elementInfo.atomic_mass,
+                      "u"
+                    )}</td>
+                </tr>
+                <tr>
+                    <th>Điểm sôi</th>
+                    <td>${handleMissingNumber(elementInfo.boil, "K")}</td>
+                </tr>
+                <tr>
+                    <th>Loại</th>
+                    <td>${capitalize(elementInfo.category)}</td>
+                </tr>
+                <tr>
+                    <th>Mật độ</th>
+                    <td>${handleMissingNumber(
+                      elementInfo.density,
+                      "kg/m³"
+                    )}</td>
+                </tr>
+                <tr>
+                    <th>Điểm nóng chảy</th>
+                    <td>${handleMissingNumber(elementInfo.melt, "K")}</td>
+                </tr>
+                <tr>
+                    <th>Cấu hình electron</th>
+                    <td>${handleMissing(
+                      elementInfo.electron_configuration
+                    )}</td>
+                </tr>
+            </table>
+            <table>
+                <th style="text-align: center">Tóm tắt</th>
+                <tr>
+                    <td>${elementInfo.summary}</td>
+                </tr>     
+            </table>
+        </div>
+    </div>
+    `;
+  
   periodicTable.classList.add("unclickable");
   periodicTable.insertAdjacentHTML("beforeend", cardDiv);
 
