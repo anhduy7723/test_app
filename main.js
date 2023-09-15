@@ -119,59 +119,59 @@ function getElementInfo(elementObj) {
         <div class="flex-col">
             <table>
                 <tr>
-                    <th>Name</th>
+                    <th>Tên</th>
                     <td><a target="_blank" href="${elementInfo.source}">${
     elementInfo.name
   }</a></td>
                 </tr>
                 <tr>
-                    <th>Atomic Number</th>
+                    <th>Số nguyên tử</th>
                     <td>${elementInfo.number}</td>
                 </tr>
                 <tr>
-                    <th>Discovered by</th>
+                    <th>Nơi phát hiện</th>
                     <td>${capitalize(
                       handleMissing(elementInfo.discovered_by)
                     )}</td>
                 </tr>
                 <tr>
-                    <th>Named by</th>
+                    <th>Người phát hiện</th>
                     <td> ${capitalize(handleMissing(elementInfo.named_by))}</td>
                 </tr>
                 <tr>
-                    <th>Appearance</th>
+                    <th>Đặc điểm nhận biết</th>
                     <td>${capitalize(
                       handleMissing(elementInfo.appearance)
                     )}</td>
                 </tr>
                 <tr>
-                    <th>Atomic Mass</th>
+                    <th>Khối lượng nguyên tử</th>
                     <td>${handleMissingNumber(
                       elementInfo.atomic_mass,
                       "u"
                     )}</td>
                 </tr>
                 <tr>
-                    <th>Boiling point</th>
+                    <th>Điểm sôi</th>
                     <td>${handleMissingNumber(elementInfo.boil, "K")}</td>
                 </tr>
                 <tr>
-                    <th>Category</th>
+                    <th>Loại</th>
                     <td>${capitalize(elementInfo.category)}</td>
                 </tr>
                 <tr>
-                    <th>Density</th>
+                    <th>Mật độ</th>
                     <td>${handleMissingNumber(
                       elementInfo.density,
                       "kg/m³"
                     )}</td>
                 </tr>
                 <tr>
-                    <th>Melting point</th>
+                    <th>Điểm nóng chảy</th>
                     <td>${handleMissingNumber(elementInfo.melt, "K")}</td>
                 </tr>
                 <tr>
-                    <th>Electron configuration</th>
+                    <th>Cấu hình electron</th>
                     <td>${handleMissing(
                       elementInfo.electron_configuration
                     )}</td>
