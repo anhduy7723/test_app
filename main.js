@@ -178,7 +178,7 @@ function getElementInfo(elementObj) {
                 </tr>
             </table>
             <table>
-                <th style="text-align: center">Summary</th>
+                <th style="text-align: center">Tóm tắt</th>
                 <tr>
                     <td>${elementInfo.summary}</td>
                 </tr>     
