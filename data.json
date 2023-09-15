@@ -2,7 +2,7 @@
     "elements": [
         {
             "name": "Hydrogen",
-            "appearance": "colorless gas",
+            "appearance": "khí không màu",
             "atomic_mass": 1.008,
             "boil": 20.271,
             "category": "diatomic nonmetal",
@@ -45,7 +45,7 @@
         },
         {
             "name": "Helium",
-            "appearance": "colorless gas, exhibiting a red-orange glow when placed in a high-voltage electric field",
+            "appearance": "khí không màu, phát sáng màu đỏ cam khi đặt trong điện trường cao áp",
             "atomic_mass": 4.0026022,
             "boil": 4.222,
             "category": "noble gas",
@@ -89,7 +89,7 @@
         },
         {
             "name": "Lithium",
-            "appearance": "silvery-white",
+            "appearance": "trắng bạc",
             "atomic_mass": 6.94,
             "boil": 1603,
             "category": "alkali metal",
@@ -135,7 +135,7 @@
         },
         {
             "name": "Beryllium",
-            "appearance": "white-gray metallic",
+            "appearance": "kim loại màu xám trắng",
             "atomic_mass": 9.01218315,
             "boil": 2742,
             "category": "alkaline earth metal",
@@ -182,7 +182,7 @@
         },
         {
             "name": "Boron",
-            "appearance": "black-brown",
+            "appearance": "nâu đen",
             "atomic_mass": 10.81,
             "boil": 4200,
             "category": "metalloid",
@@ -279,7 +279,7 @@
         },
         {
             "name": "Nitrogen",
-            "appearance": "colorless gas, liquid or solid",
+            "appearance": "khí không màu, lỏng hoặc rắn",
             "atomic_mass": 14.007,
             "boil": 77.355,
             "category": "diatomic nonmetal",
@@ -432,7 +432,7 @@
         },
         {
             "name": "Neon",
-            "appearance": "colorless gas exhibiting an orange-red glow when placed in a high voltage electric field",
+            "appearance": "chất khí không màu phát sáng màu đỏ cam khi đặt trong điện trường cao áp",
             "atomic_mass": 20.17976,
             "boil": 27.104,
             "category": "noble gas",
@@ -485,7 +485,7 @@
         },
         {
             "name": "Sodium",
-            "appearance": "silvery white metallic",
+            "appearance": "kim loại màu trắng bạc",
             "atomic_mass": 22.989769282,
             "boil": 1156.09,
             "category": "alkali metal",
@@ -540,7 +540,7 @@
         },
         {
             "name": "Magnesium",
-            "appearance": "shiny grey solid",
+            "appearance": "chất rắn màu xám sáng bóng",
             "atomic_mass": 24.305,
             "boil": 1363,
             "category": "alkaline earth metal",
@@ -596,7 +596,7 @@
         },
         {
             "name": "Aluminium",
-            "appearance": "silvery gray metallic",
+            "appearance": "kim loại màu xám bạc",
             "atomic_mass": 26.98153857,
             "boil": 2743,
             "category": "post-transition metal",
@@ -653,7 +653,7 @@
         },
         {
             "name": "Silicon",
-            "appearance": "crystalline, reflective with bluish-tinged faces",
+            "appearance": "tinh thể, phản chiếu với khuôn mặt nhuốm màu xanh lam",
             "atomic_mass": 28.085,
             "boil": 3538,
             "category": "metalloid",
@@ -711,7 +711,7 @@
         },
         {
             "name": "Phosphorus",
-            "appearance": "colourless, waxy white, yellow, scarlet, red, violet, black",
+            "appearance": "không màu, trắng sáp, vàng, đỏ tươi, đỏ, tím, đen",
             "atomic_mass": 30.9737619985,
             "boil": null,
             "category": "polyatomic nonmetal",
@@ -770,7 +770,7 @@
         },
         {
             "name": "Sulfur",
-            "appearance": "lemon yellow sintered microcrystals",
+            "appearance": "vi tinh thể thiêu kết màu vàng chanh",
             "atomic_mass": 32.06,
             "boil": 717.8,
             "category": "polyatomic nonmetal",
@@ -830,7 +830,7 @@
         },
         {
             "name": "Chlorine",
-            "appearance": "pale yellow-green gas",
+            "appearance": "khí màu vàng lục nhạt",
             "atomic_mass": 35.45,
             "boil": 239.11,
             "category": "diatomic nonmetal",
@@ -891,7 +891,7 @@
         },
         {
             "name": "Argon",
-            "appearance": "colorless gas exhibiting a lilac/violet glow when placed in a high voltage electric field",
+            "appearance": "khí không màu có ánh sáng màu hoa cà/tím khi đặt trong điện trường cao áp",
             "atomic_mass": 39.9481,
             "boil": 87.302,
             "category": "noble gas",
@@ -953,7 +953,7 @@
         },
         {
             "name": "Potassium",
-            "appearance": "silvery gray",
+            "appearance": "màu xám bạc",
             "atomic_mass": 39.09831,
             "boil": 1032,
             "category": "alkali metal",
@@ -1082,7 +1082,7 @@
         },
         {
             "name": "Scandium",
-            "appearance": "silvery white",
+            "appearance": "màu trắng bạc",
             "atomic_mass": 44.9559085,
             "boil": 3109,
             "category": "transition metal",
@@ -1148,7 +1148,7 @@
         },
         {
             "name": "Titanium",
-            "appearance": "silvery grey-white metallic",
+            "appearance": "kim loại màu xám trắng bạc",
             "atomic_mass": 47.8671,
             "boil": 3560,
             "category": "transition metal",
@@ -1215,7 +1215,7 @@
         },
         {
             "name": "Vanadium",
-            "appearance": "blue-silver-grey metal",
+            "appearance": "kim loại màu xanh-bạc-xám",
             "atomic_mass": 50.94151,
             "boil": 3680,
             "category": "transition metal",
@@ -1283,7 +1283,7 @@
         },
         {
             "name": "Chromium",
-            "appearance": "silvery metallic",
+            "appearance": "kim loại bạc",
             "atomic_mass": 51.99616,
             "boil": 2944,
             "category": "transition metal",
@@ -1352,7 +1352,7 @@
         },
         {
             "name": "Manganese",
-            "appearance": "silvery metallic",
+            "appearance": "kim loại bạc",
             "atomic_mass": 54.9380443,
             "boil": 2334,
             "category": "transition metal",
@@ -1422,7 +1422,7 @@
         },
         {
             "name": "Iron",
-            "appearance": "lustrous metallic with a grayish tinge",
+            "appearance": "kim loại sáng bóng với tông màu xám",
             "atomic_mass": 55.8452,
             "boil": 3134,
             "category": "transition metal",
@@ -1493,7 +1493,7 @@
         },
         {
             "name": "Cobalt",
-            "appearance": "hard lustrous gray metal",
+            "appearance": "kim loại cứng bóng màu xám",
             "atomic_mass": 58.9331944,
             "boil": 3200,
             "category": "transition metal",
@@ -1565,7 +1565,7 @@
         },
         {
             "name": "Nickel",
-            "appearance": "lustrous, metallic, and silver with a gold tinge",
+            "appearance": "sáng bóng, kim loại và bạc với ánh vàng",
             "atomic_mass": 58.69344,
             "boil": 3003,
             "category": "transition metal",
@@ -1638,7 +1638,7 @@
         },
         {
             "name": "Copper",
-            "appearance": "red-orange metallic luster",
+            "appearance": "ánh kim loại màu đỏ cam",
             "atomic_mass": 63.5463,
             "boil": 2835,
             "category": "transition metal",
@@ -1712,7 +1712,7 @@
         },
         {
             "name": "Zinc",
-            "appearance": "silver-gray",
+            "appearance": "màu xám bạc",
             "atomic_mass": 65.382,
             "boil": 1180,
             "category": "transition metal",
@@ -1778,7 +1778,7 @@
         },
         {
             "name": "Gallium",
-            "appearance": "silver-white",
+            "appearance": "màu trắng bạc",
             "atomic_mass": 69.7231,
             "boil": 2673,
             "category": "post-transition metal",
@@ -1827,7 +1827,7 @@
         },
         {
             "name": "Germanium",
-            "appearance": "grayish-white",
+            "appearance": "Trắng xám",
             "atomic_mass": 72.6308,
             "boil": 3106,
             "category": "metalloid",
@@ -1877,7 +1877,7 @@
         },
         {
             "name": "Arsenic",
-            "appearance": "metallic grey",
+            "appearance": "màu xám kim loại",
             "atomic_mass": 74.9215956,
             "boil": null,
             "category": "metalloid",
@@ -1928,7 +1928,7 @@
         },
         {
             "name": "Selenium",
-            "appearance": "black, red, and gray (not pictured) allotropes",
+            "appearance": "dạng thù hình đen, đỏ và xám (không có trong hình)",
             "atomic_mass": 78.9718,
             "boil": 958,
             "category": "polyatomic nonmetal",
@@ -2033,7 +2033,7 @@
         },
         {
             "name": "Krypton",
-            "appearance": "colorless gas, exhibiting a whitish glow in a high electric field",
+            "appearance": "khí không màu, có ánh sáng trắng trong điện trường cao",
             "atomic_mass": 83.7982,
             "boil": 119.93,
             "category": "noble gas",
@@ -2108,7 +2108,7 @@
         },
         {
             "name": "Rubidium",
-            "appearance": "grey white",
+            "appearance": "xám trắng",
             "atomic_mass": 85.46783,
             "boil": 961,
             "category": "alkali metal",
@@ -2221,7 +2221,7 @@
         },
         {
             "name": "Yttrium",
-            "appearance": "silvery white",
+            "appearance": "màu trắng bạc",
             "atomic_mass": 88.905842,
             "boil": 3203,
             "category": "transition metal",
@@ -2279,7 +2279,7 @@
         },
         {
             "name": "Zirconium",
-            "appearance": "silvery white",
+            "appearance": "màu trắng bạc",
             "atomic_mass": 91.2242,
             "boil": 4650,
             "category": "transition metal",
@@ -2331,7 +2331,7 @@
         },
         {
             "name": "Niobium",
-            "appearance": "gray metallic, bluish when oxidized",
+            "appearance": "màu xám kim loại, hơi xanh khi bị oxy hóa",
             "atomic_mass": 92.906372,
             "boil": 5017,
             "category": "transition metal",
@@ -2384,7 +2384,7 @@
         },
         {
             "name": "Molybdenum",
-            "appearance": "gray metallic",
+            "appearance": "màu xám kim loại",
             "atomic_mass": 95.951,
             "boil": 4912,
             "category": "transition metal",
@@ -2460,7 +2460,7 @@
         },
         {
             "name": "Technetium",
-            "appearance": "shiny gray metal",
+            "appearance": "kim loại màu xám sáng bóng",
             "atomic_mass": 98,
             "boil": 4538,
             "category": "transition metal",
@@ -2509,7 +2509,7 @@
         },
         {
             "name": "Ruthenium",
-            "appearance": "silvery white metallic",
+            "appearance": "kim loại màu trắng bạc",
             "atomic_mass": 101.072,
             "boil": 4423,
             "category": "transition metal",
@@ -2558,7 +2558,7 @@
         },
         {
             "name": "Rhodium",
-            "appearance": "silvery white metallic",
+            "appearance": "kim loại màu trắng bạc",
             "atomic_mass": 102.905502,
             "boil": 3968,
             "category": "transition metal",
@@ -2607,7 +2607,7 @@
         },
         {
             "name": "Palladium",
-            "appearance": "silvery white",
+            "appearance": "màu trắng bạc",
             "atomic_mass": 106.421,
             "boil": 3236,
             "category": "transition metal",
@@ -2655,7 +2655,7 @@
         },
         {
             "name": "Silver",
-            "appearance": "lustrous white metal",
+            "appearance": "kim loại trắng sáng",
             "atomic_mass": 107.86822,
             "boil": 2435,
             "category": "transition metal",
@@ -2704,7 +2704,7 @@
         },
         {
             "name": "Cadmium",
-            "appearance": "silvery bluish-gray metallic",
+            "appearance": "kim loại màu xám xanh bạc",
             "atomic_mass": 112.4144,
             "boil": 1040,
             "category": "transition metal",
@@ -2753,7 +2753,7 @@
         },
         {
             "name": "Indium",
-            "appearance": "silvery lustrous gray",
+            "appearance": "màu xám bạc bóng",
             "atomic_mass": 114.8181,
             "boil": 2345,
             "category": "post-transition metal",
@@ -2803,7 +2803,7 @@
         },
         {
             "name": "Tin",
-            "appearance": "silvery-white (beta, β) or gray (alpha, α)",
+            "appearance": "trắng bạc (beta, β) hoặc xám (alpha, α)",
             "atomic_mass": 118.7107,
             "boil": 2875,
             "category": "post-transition metal",
@@ -2854,7 +2854,7 @@
         },
         {
             "name": "Antimony",
-            "appearance": "silvery lustrous gray",
+            "appearance": "màu xám bạc bóng",
             "atomic_mass": 121.7601,
             "boil": 1908,
             "category": "metalloid",
@@ -2959,7 +2959,7 @@
         },
         {
             "name": "Iodine",
-            "appearance": "lustrous metallic gray, violet as a gas",
+            "appearance": "màu xám kim loại bóng, tím như chất khí",
             "atomic_mass": 126.904473,
             "boil": 457.4,
             "category": "diatomic nonmetal",
@@ -3008,7 +3008,7 @@
         },
         {
             "name": "Xenon",
-            "appearance": "colorless gas, exhibiting a blue glow when placed in a high voltage electric field",
+            "appearance": "chất khí không màu, có ánh sáng xanh khi đặt trong điện trường cao áp",
             "atomic_mass": 131.2936,
             "boil": 165.051,
             "category": "noble gas",
@@ -3057,7 +3057,7 @@
         },
         {
             "name": "Cesium",
-            "appearance": "silvery gold",
+            "appearance": "vàng màu bạc",
             "atomic_mass": 132.905451966,
             "boil": 944,
             "category": "alkali metal",
@@ -3157,7 +3157,7 @@
         },
         {
             "name": "Lanthanum",
-            "appearance": "silvery white",
+            "appearance": "màu trắng bạc",
             "atomic_mass": 138.905477,
             "boil": 3737,
             "category": "lanthanide",
@@ -3209,7 +3209,7 @@
         },
         {
             "name": "Cerium",
-            "appearance": "silvery white",
+            "appearance": "màu trắng bạc",
             "atomic_mass": 140.1161,
             "boil": 3716,
             "category": "lanthanide",
@@ -3262,7 +3262,7 @@
         },
         {
             "name": "Praseodymium",
-            "appearance": "grayish white",
+            "appearance": "Trắng xám",
             "atomic_mass": 140.907662,
             "boil": 3403,
             "category": "lanthanide",
@@ -3314,7 +3314,7 @@
         },
         {
             "name": "Neodymium",
-            "appearance": "silvery white",
+            "appearance": "màu trắng bạc",
             "atomic_mass": 144.2423,
             "boil": 3347,
             "category": "lanthanide",
@@ -3365,7 +3365,7 @@
         },
         {
             "name": "Promethium",
-            "appearance": "metallic",
+            "appearance": "kim loại",
             "atomic_mass": 145,
             "boil": 3273,
             "category": "lanthanide",
@@ -3416,7 +3416,7 @@
         },
         {
             "name": "Samarium",
-            "appearance": "silvery white",
+            "appearance": "màu trắng bạc",
             "atomic_mass": 150.362,
             "boil": 2173,
             "category": "lanthanide",
@@ -3518,7 +3518,7 @@
         },
         {
             "name": "Gadolinium",
-            "appearance": "silvery white",
+            "appearance": "màu trắng bạc",
             "atomic_mass": 157.253,
             "boil": 3273,
             "category": "lanthanide",
@@ -3569,7 +3569,7 @@
         },
         {
             "name": "Terbium",
-            "appearance": "silvery white",
+            "appearance": "màu trắng bạc",
             "atomic_mass": 158.925352,
             "boil": 3396,
             "category": "lanthanide",
@@ -3620,7 +3620,7 @@
         },
         {
             "name": "Dysprosium",
-            "appearance": "silvery white",
+            "appearance": "màu trắng bạc",
             "atomic_mass": 162.5001,
             "boil": 2840,
             "category": "lanthanide",
@@ -3671,7 +3671,7 @@
         },
         {
             "name": "Holmium",
-            "appearance": "silvery white",
+            "appearance": "màu trắng bạc",
             "atomic_mass": 164.930332,
             "boil": 2873,
             "category": "lanthanide",
@@ -3722,7 +3722,7 @@
         },
         {
             "name": "Erbium",
-            "appearance": "silvery white",
+            "appearance": "màu trắng bạc",
             "atomic_mass": 167.2593,
             "boil": 3141,
             "category": "lanthanide",
@@ -3773,7 +3773,7 @@
         },
         {
             "name": "Thulium",
-            "appearance": "silvery gray",
+            "appearance": "màu xám bạc",
             "atomic_mass": 168.934222,
             "boil": 2223,
             "category": "lanthanide",
@@ -3875,7 +3875,7 @@
         },
         {
             "name": "Lutetium",
-            "appearance": "silvery white",
+            "appearance": "màu trắng bạc",
             "atomic_mass": 174.96681,
             "boil": 3675,
             "category": "lanthanide",
@@ -3927,7 +3927,7 @@
         },
         {
             "name": "Hafnium",
-            "appearance": "steel gray",
+            "appearance": "thép màu xám",
             "atomic_mass": 178.492,
             "boil": 4876,
             "category": "transition metal",
@@ -3978,7 +3978,7 @@
         },
         {
             "name": "Tantalum",
-            "appearance": "gray blue",
+            "appearance": "xám xanh",
             "atomic_mass": 180.947882,
             "boil": 5731,
             "category": "transition metal",
@@ -4027,7 +4027,7 @@
         },
         {
             "name": "Tungsten",
-            "appearance": "grayish white, lustrous",
+            "appearance": "trắng xám, bóng",
             "atomic_mass": 183.841,
             "boil": 6203,
             "category": "transition metal",
@@ -4076,7 +4076,7 @@
         },
         {
             "name": "Rhenium",
-            "appearance": "silvery-grayish",
+            "appearance": "màu xám bạc",
             "atomic_mass": 186.2071,
             "boil": 5869,
             "category": "transition metal",
@@ -4127,7 +4127,7 @@
         },
         {
             "name": "Osmium",
-            "appearance": "silvery, blue cast",
+            "appearance": "màu bạc có tông màu xanh",
             "atomic_mass": 190.233,
             "boil": 5285,
             "category": "transition metal",
@@ -4176,7 +4176,7 @@
         },
         {
             "name": "Iridium",
-            "appearance": "silvery white",
+            "appearance": "màu trắng bạc",
             "atomic_mass": 192.2173,
             "boil": 4403,
             "category": "transition metal",
@@ -4225,7 +4225,7 @@
         },
         {
             "name": "Platinum",
-            "appearance": "silvery white",
+            "appearance": "màu trắng bạc",
             "atomic_mass": 195.0849,
             "boil": 4098,
             "category": "transition metal",
@@ -4274,7 +4274,7 @@
         },
         {
             "name": "Gold",
-            "appearance": "metallic yellow",
+            "appearance": "màu vàng kim loại",
             "atomic_mass": 196.9665695,
             "boil": 3243,
             "category": "transition metal",
@@ -4323,7 +4323,7 @@
         },
         {
             "name": "Mercury",
-            "appearance": "silvery",
+            "appearance": "màu bạc",
             "atomic_mass": 200.5923,
             "boil": 629.88,
             "category": "transition metal",
@@ -4373,7 +4373,7 @@
         },
         {
             "name": "Thallium",
-            "appearance": "silvery white",
+            "appearance": "màu trắng bạc",
             "atomic_mass": 204.38,
             "boil": 1746,
             "category": "post-transition metal",
@@ -4424,7 +4424,7 @@
         },
         {
             "name": "Lead",
-            "appearance": "metallic gray",
+            "appearance": "màu xám kim loại",
             "atomic_mass": 207.21,
             "boil": 2022,
             "category": "post-transition metal",
@@ -4476,7 +4476,7 @@
         },
         {
             "name": "Bismuth",
-            "appearance": "lustrous silver",
+            "appearance": "bạc sáng bóng",
             "atomic_mass": 208.980401,
             "boil": 1837,
             "category": "post-transition metal",
@@ -4529,7 +4529,7 @@
         },
         {
             "name": "Polonium",
-            "appearance": "silvery",
+            "appearance": "màu bạc",
             "atomic_mass": 209,
             "boil": 1235,
             "category": "post-transition metal",
@@ -4577,7 +4577,7 @@
         },
         {
             "name": "Astatine",
-            "appearance": "unknown, probably metallic",
+            "appearance": "không rõ, có thể là kim loại",
             "atomic_mass": 210,
             "boil": 610,
             "category": "metalloid",
@@ -4625,7 +4625,7 @@
         },
         {
             "name": "Radon",
-            "appearance": "colorless gas, occasionally glows green or red in discharge tubes",
+            "appearance": "khí không màu, thỉnh thoảng phát sáng màu xanh hoặc đỏ trong ống phóng điện",
             "atomic_mass": 222,
             "boil": 211.5,
             "category": "noble gas",
@@ -4722,7 +4722,7 @@
         },
         {
             "name": "Radium",
-            "appearance": "silvery white metallic",
+            "appearance": "kim loại màu trắng bạc",
             "atomic_mass": 226,
             "boil": 2010,
             "category": "alkaline earth metal",
@@ -4822,7 +4822,7 @@
         },
         {
             "name": "Thorium",
-            "appearance": "silvery, often with black tarnish",
+            "appearance": "bạc, thường có vết đen xỉn",
             "atomic_mass": 232.03774,
             "boil": 5061,
             "category": "actinide",
@@ -4874,7 +4874,7 @@
         },
         {
             "name": "Protactinium",
-            "appearance": "bright, silvery metallic luster",
+            "appearance": "ánh kim loại sáng, bạc",
             "atomic_mass": 231.035882,
             "boil": 4300,
             "category": "actinide",
@@ -4973,7 +4973,7 @@
         },
         {
             "name": "Neptunium",
-            "appearance": "silvery metallic",
+            "appearance": "kim loại bạc",
             "atomic_mass": 237,
             "boil": 4447,
             "category": "actinide",
@@ -5022,7 +5022,7 @@
         },
         {
             "name": "Plutonium",
-            "appearance": "silvery white, tarnishing to dark gray in air",
+            "appearance": "màu trắng bạc, bị xỉn màu xám đen trong không khí",
             "atomic_mass": 244,
             "boil": 3505,
             "category": "actinide",
@@ -5071,7 +5071,7 @@
         },
         {
             "name": "Americium",
-            "appearance": "silvery white",
+            "appearance": "màu trắng bạc",
             "atomic_mass": 243,
             "boil": 2880,
             "category": "actinide",
@@ -5120,7 +5120,7 @@
         },
         {
             "name": "Curium",
-            "appearance": "silvery metallic, glows purple in the dark",
+            "appearance": "kim loại màu bạc, phát sáng màu tím trong bóng tối",
             "atomic_mass": 247,
             "boil": 3383,
             "category": "actinide",
@@ -5169,7 +5169,7 @@
         },
         {
             "name": "Berkelium",
-            "appearance": "silvery",
+            "appearance": "màu bạc",
             "atomic_mass": 247,
             "boil": 2900,
             "category": "actinide",
@@ -5218,7 +5218,7 @@
         },
         {
             "name": "Californium",
-            "appearance": "silvery",
+            "appearance": "màu bạc",
             "atomic_mass": 251,
             "boil": 1743,
             "category": "actinide",
@@ -5267,7 +5267,7 @@
         },
         {
             "name": "Einsteinium",
-            "appearance": "silver-colored",
+            "appearance": "màu bạc sáng",
             "atomic_mass": 252,
             "boil": 1269,
             "category": "actinide",
