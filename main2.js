@@ -233,21 +233,21 @@ var data = JSON.parse(request.responseText);
 
 // scan for elements
 
-const elements = document.getElementsByTagName("element");
+const elements = document.querySelectorAll(".custom-element-class");
 
-for (let i = 0; i < elements.length; i++) {
-  let name = elements[i].id;
-  let target = elements[i];
+// Loop through the selected elements
+elements.forEach((element) => {
+  let name = element.id;
+  let target = element;
   createElementDiv(name, target);
-  elements[i].onclick = () => {
-    const itemAudio = new Audio(`./music/${elements[i].id.toLowerCase()}.mp3`);
+  element.addEventListener("click", () => {
+    const itemAudio = new Audio(`./music/${element.id.toLowerCase()}.mp3`);
     itemAudio.play();
-    getElementInfo(elements[i]);
-  };
-}
+    getElementInfo(element);
+  });
+});
 
 // remove card if clicked outside table
-
 window.addEventListener("click", function (e) {
   if (!clickedOn(".table", e)) {
     removeCard();
